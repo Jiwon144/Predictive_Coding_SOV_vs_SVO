@@ -1,3 +1,4 @@
+# [Project 01] Simulating Syntactic Bottlenecks & Predictive Coding
 # Predictive_Coding_SOV_vs_SVO
 Python simulation of LLM surprisal and cognitive load in cross-linguistic naturalistic reading, focusing on the syntactic bottlenecks between English (SVO) and Korean (SOV).
 
